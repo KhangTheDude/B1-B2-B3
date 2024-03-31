@@ -41,7 +41,7 @@
 # else:
 #     print("Sai")
 
-# e = str(input("Câu 2: Ai tạo ra Python? A: Guido can Rossum B: Dennis Ritchie C: James Gosling D: Bjarne Stroustrup:  "))
+# e = str(input("Câu 2: Ai tạo ra Python? A: Guido can Rossum B: cout>> Dennis Ritchie C: James Gosling D: Bjarne Stroustrup:  "))
 # ans = ["A","a"]
 # if e == ans[0] or e == ans[1]:
 #     print("Đúng")
@@ -49,10 +49,12 @@
 # else:
 #     print("Sai")
 
-# e = str(input("Câu 3: Câu lệnh nào dùng để hiển thị dữ liệu ra màn hình trong Python? A: print() B:  C: James Gosling D: Bjarne Stroustrup:  "))
+# e = str(input("Câu 3: Câu lệnh nào dùng để hiển thị dữ liệu ra màn hình trong Python? A: print() B: cout<<  C: System.out.printIn() D: echo:  "))
 # ans = ["A","a"]
 # if e == ans[0] or e == ans[1]:
 #     print("Đúng")
 #     score = score + 1
 # else:
 #     print("Sai")
+#
+#print("Bạn được", score, " trên 3 điểm")
